@@ -2,7 +2,7 @@
 ### Challenge "Corrigindo bugs 02"
 
 ![Badge](https://img.shields.io/badge/version-1.0-green)
-![Badge](https://img.shields.io/badge/status-Development-yellow)
+![Badge](https://img.shields.io/badge/status-Done!-informational)
 
 ### This is a challenge by Rocketseat hosted in:
 https://efficient-sloth-d85.notion.site/Iniciante-Corrigindo-bugs-02-300452b6901e4197b7c6fd291a280acf
